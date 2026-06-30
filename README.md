@@ -1,1 +1,1 @@
-# QR Generator go
+# QR Generator gogo
